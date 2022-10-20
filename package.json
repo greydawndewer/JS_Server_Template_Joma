@@ -16,15 +16,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jomaoppa/node-js-template.git"
+    "url": "git+https://github.com/Ganime-Stark1000/Project-Ganime-Company.git"
   },
   "keywords": [
     "node"
   ],
   "author": "Ganime",
   "license": "None",
-  "bugs": {
-    "url": "https://github.com/jomaoppa/node-js-template/issues"
-  },
-  "homepage": "https://github.com/jomaoppa/node-js-template#readme"
+  "homepage": "https://github.com/Ganime-Stark1000/Project-Ganime-Company/"
 }
